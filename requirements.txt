@@ -1,0 +1,4 @@
+boto3
+hf_transfer
+huggingface_hub
+sagemaker
